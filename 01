@@ -1,0 +1,1 @@
+curl -sO https://raw.githubusercontent.com/leitura/ospacotesmb/main/mbsfree && chmod 777 mbsfree && ./mbsfree
