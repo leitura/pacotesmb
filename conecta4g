@@ -1,640 +1,640 @@
 {
-  "Version":"1.4.2.1",
+  "Version":"1.4.2.4",
   "ReleaseNotes":"🔵TIM DE VOLTA EM ALGUNS DDD'S\n\n",
   "UrlUpdate":"https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4g",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
   "EmailFeedback":"kiritosshxd5733@gmail.com",
   "UrlContato":"https://t.me/kiritosshxd",
   "UrlTermos":"https://raw.githubusercontent.com/leitura/pacotesmb/main/termos.html",
-  "CheckUser":"true",
+  "CheckUser":"false",
   "UdpPort":"7300;7400;7500;7600;7700",
   "Servers":[
     {
       "Name":"BR | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor01.sockslite.com",
       "CheckUser":"http://servidor01.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 02 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor02.sockslite.com",
       "CheckUser":"http://servidor02.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 03 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor03.sockslite.com",
       "CheckUser":"http://servidor03.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 04 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor04.sockslite.com",
       "CheckUser":"http://servidor04.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 05 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor05.sockslite.com",
       "CheckUser":"http://servidor05.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 06 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor06.sockslite.com",
       "CheckUser":"http://servidor06.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 07 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor07.sockslite.com",
       "CheckUser":"http://servidor07.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 08 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor08.sockslite.com",
       "CheckUser":"http://servidor08.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 09 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor09.sockslite.com",
       "CheckUser":"http://servidor09.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 10 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor10.sockslite.com",
       "CheckUser":"http://servidor10.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"CA 11 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"ca.png",
       "ServerIP":"servidor11.sockslite.com",
       "CheckUser":"http://servidor11.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"CA 12 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"ca.png",
       "ServerIP":"servidor12.sockslite.com",
       "CheckUser":"http://servidor12.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 13 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor13.sockslite.com",
       "CheckUser":"http://servidor13.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 14 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor14.sockslite.com",
       "CheckUser":"http://servidor14.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 15 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor15.sockslite.com",
       "CheckUser":"http://servidor15.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 16 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor16.sockslite.com",
       "CheckUser":"http://servidor16.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 17 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor17.sockslite.com",
       "CheckUser":"http://servidor17.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 18 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor18.sockslite.com",
       "CheckUser":"http://servidor18.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 19 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor19.sockslite.com",
       "CheckUser":"http://servidor19.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 20 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor20.sockslite.com",
       "CheckUser":"http://servidor20.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 21 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor21.sockslite.com",
       "CheckUser":"http://servidor21.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 22 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor22.sockslite.com",
       "CheckUser":"http://servidor22.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 23 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor23.sockslite.com",
       "CheckUser":"http://servidor23.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 24 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor24.sockslite.com",
       "CheckUser":"http://servidor24.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 25 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor25.sockslite.com",
       "CheckUser":"http://servidor25.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 26 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor26.sockslite.com",
       "CheckUser":"http://servidor26.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 27 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor27.sockslite.com",
       "CheckUser":"http://servidor27.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 28 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor28.sockslite.com",
       "CheckUser":"http://servidor28.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 29 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor29.sockslite.com",
       "CheckUser":"http://servidor29.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 30 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor30.sockslite.com",
       "CheckUser":"http://servidor30.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 31 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor31.sockslite.com",
       "CheckUser":"http://servidor31.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 32 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor32.sockslite.com",
       "CheckUser":"http://servidor32.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 33 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor33.sockslite.com",
       "CheckUser":"http://servidor33.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 34 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor34.sockslite.com",
       "CheckUser":"http://servidor34.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 35 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor35.sockslite.com",
       "CheckUser":"http://servidor35.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 36 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor36.sockslite.com",
       "CheckUser":"http://servidor36.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 37 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor37.sockslite.com",
       "CheckUser":"http://servidor37.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 38 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor38.sockslite.com",
       "CheckUser":"http://servidor38.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 39 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor39.sockslite.com",
       "CheckUser":"http://servidor39.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 40 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor40.sockslite.com",
       "CheckUser":"http://servidor40.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 41 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor41.sockslite.com",
       "CheckUser":"http://servidor41.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 42 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor42.sockslite.com",
       "CheckUser":"http://servidor42.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 43 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor43.sockslite.com",
       "CheckUser":"http://servidor43.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 44 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor44.sockslite.com",
       "CheckUser":"http://servidor44.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 45 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor45.sockslite.com",
       "CheckUser":"http://servidor45.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 46 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor46.sockslite.com",
       "CheckUser":"http://servidor46.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 47 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor47.sockslite.com",
       "CheckUser":"http://servidor47.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 48 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor48.sockslite.com",
       "CheckUser":"http://servidor48.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 49 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor49.sockslite.com",
       "CheckUser":"http://servidor49.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 50 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor50.sockslite.com",
       "CheckUser":"http://servidor50.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 51 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor51.sockslite.com",
       "CheckUser":"http://servidor51.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 52 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor52.sockslite.com",
       "CheckUser":"http://servidor52.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 53 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor53.sockslite.com",
       "CheckUser":"http://servidor53.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 54 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor54.sockslite.com",
       "CheckUser":"http://servidor54.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"USA 55 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"us.png",
       "ServerIP":"servidor55.sockslite.com",
       "CheckUser":"http://servidor55.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 56 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor56.sockslite.com",
       "CheckUser":"http://servidor56.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     },
     {
       "Name":"BR 57 | FREE",
-      "TYPE":"free",
+      "TYPE":"premium",
       "FLAG":"br.png",
       "ServerIP":"servidor57.sockslite.com",
       "CheckUser":"http://servidor57.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"bitUAPUEMKHT",
-      "PASS":"bitUAPUEMKHT B L r F c G SSH"
+      "USER":"bitP3HVFKHT",
+      "PASS":"bitP3HVFKHT B L r F c G SSH"
     }
   ],
   "Networks":[
@@ -691,7 +691,7 @@
     {
       "Name":"VIVO 05 (FRONT)✅",
       "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"server-52-85-213-82.gru1.r.cloudfront.net",
@@ -701,7 +701,7 @@
     {
       "Name":"VIVO 06 (FRONT)✅",
       "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"52.85.213.8",
@@ -731,7 +731,7 @@
     {
       "Name":"TIM 03 (FRONT)✅",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"108.158.124.45",
@@ -741,7 +741,7 @@
     {
       "Name":"TIM 04 (FRONT)",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"108.139.91.220",
@@ -751,7 +751,7 @@
     {
       "Name":"TIM 05 (FRONT)",
       "FLAG":"tim",
-      "Payload":"GET wss://[rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net]/ HTTP/1.1[crlf]Host: server-108-158-124-45.gig51.r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net]/ HTTP/1.1[crlf]Host: server-108-158-124-45.gig51.r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"server-108-158-124-45.gig51.r.cloudfront.net",
@@ -901,7 +901,7 @@
     {
       "Name":"CLARO 01 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net]/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net]/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"[app_host]",
@@ -911,7 +911,7 @@
     {
       "Name":"CLARO 02 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net]/ HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net]/ HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"[app_host]",
@@ -921,7 +921,7 @@
     {
       "Name":"CLARO 03 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net]/ HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net]/ HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"[app_host]",
@@ -1061,7 +1061,7 @@
     {
       "Name":"OI 01 (FRONT)✅",
       "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d1r0i0mdh4quis.cloudfront.net;d37dhagod0k6wh.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"www.oi.com.br",
       "TlsIP":"www.oi.com.br",
       "ProxyIP":"www.oi.com.br",
