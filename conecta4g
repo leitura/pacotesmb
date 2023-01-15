@@ -1,5 +1,5 @@
 {
-  "Version":"1.4.4.3",
+  "Version":"1.4.5.4",
   "ReleaseNotes":"🔵TIM DE VOLTA EM ALGUNS DDD'S\n\n",
   "UrlUpdate":"https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4g",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
@@ -644,7 +644,7 @@
     {
       "Name":"VIVO 06 (FRONT)✅",
       "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dyyie4a7mqfcu.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"52.85.213.8",
@@ -674,7 +674,7 @@
     {
       "Name":"TIM 03 (FRONT)✅",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dyyie4a7mqfcu.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"108.158.124.45",
@@ -684,7 +684,7 @@
     {
       "Name":"TIM 04 (FRONT)",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dyyie4a7mqfcu.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"108.139.91.220",
@@ -694,7 +694,7 @@
     {
       "Name":"TIM 05 (FRONT)",
       "FLAG":"tim",
-      "Payload":"GET wss://[rotate=dyyie4a7mqfcu.cloudfront.net]/ HTTP/1.1[crlf]Host: server-108-158-124-45.gig51.r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: server-108-158-124-45.gig51.r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"server-108-158-124-45.gig51.r.cloudfront.net",
@@ -844,35 +844,55 @@
     {
       "Name":"CLARO 01 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dyyie4a7mqfcu.cloudfront.net]/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"[app_host]",
+      "ProxyIP":"origin.api.amxrest.net",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
       "Name":"CLARO 02 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dyyie4a7mqfcu.cloudfront.net]/ HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: dev-portal-lgpd.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"[app_host]",
+      "ProxyIP":"dev-portal-lgpd.clarobrasil.mobi",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
       "Name":"CLARO 03 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dyyie4a7mqfcu.cloudfront.net]/ HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"[app_host]",
+      "ProxyIP":"assets.clarobrasil.mobi",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
       "Name":"CLARO 04 (ALGUNS DDD'S)",
+      "FLAG":"claro",
+      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"metadatadb.lab.smartcontent.clarobrasil.mobi",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"CLARO 05 (ALGUNS DDD'S)",
+      "FLAG":"claro",
+      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"planos3-assine-empresas.clarobrasil.mobi",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"CLARO 06 (ALGUNS DDD'S)",
       "FLAG":"claro",
       "Payload":"GET https://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: https://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI":"",
@@ -882,7 +902,7 @@
       "Info":"Proxy"
     },
     {
-      "Name":"CLARO 05 (ALGUNS DDD'S)",
+      "Name":"CLARO 07 (ALGUNS DDD'S)",
       "FLAG":"claro",
       "Payload":"GET https://brunaclaro.com.br HTTP/1.0[crlf]Host: https://brunaclaro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI":"",
@@ -892,7 +912,7 @@
       "Info":"Proxy"
     },
     {
-      "Name":"CLARO 06 (ALGUNS DDD'S)",
+      "Name":"CLARO 08 (ALGUNS DDD'S)",
       "FLAG":"claro",
       "Payload":"GET https://m.claro.com.br HTTP/1.0[crlf]Host: https://m.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI":"",
@@ -902,7 +922,7 @@
       "Info":"Proxy"
     },
     {
-      "Name":"CLARO 07 (ALGUNS DDD'S)",
+      "Name":"CLARO 09 (ALGUNS DDD'S",
       "FLAG":"claro",
       "Payload":"GET https://ecob.claro.com.br HTTP/1.0[crlf]Host: https://ecob.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI":"",
@@ -912,29 +932,9 @@
       "Info":"Proxy"
     },
     {
-      "Name":"CLARO 08 (ALGUNS DDD'S)",
-      "FLAG":"claro",
-      "Payload":"GET https://bonuz.claro.com.br HTTP/1.0[crlf]Host: https://bonuz.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 09 (ALGUNS DDD'S",
-      "FLAG":"claro",
-      "Payload":"GET https://www.claro.com.br HTTP/1.0[crlf]Host: https://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
       "Name":"CLARO 10 (ALGUNS DDD'S)",
       "FLAG":"claro",
-      "Payload":"GET https://claro.com.br HTTP/1.0[crlf]Host: https://claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "Payload":"GET https://bonuz.claro.com.br HTTP/1.0[crlf]Host: https://bonuz.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"[app_host]",
@@ -1004,20 +1004,20 @@
     {
       "Name":"OI 01 (FRONT)✅",
       "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dyyie4a7mqfcu.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI":"www.oi.com.br",
-      "TlsIP":"www.oi.com.br",
-      "ProxyIP":"www.oi.com.br",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI":"play.hbomax.com",
+      "TlsIP":"play.hbomax.com",
+      "ProxyIP":"play.hbomax.com",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
       "Name":"OI 02 (FRONT✅)",
       "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dyyie4a7mqfcu.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"[app_host]",
-      "TlsIP":"play.hbomax.com",
-      "ProxyIP":"play.hbomax.com",
+      "TlsIP":"www.oi.com.br",
+      "ProxyIP":"www.oi.com.br",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
