@@ -1,6 +1,6 @@
 {
-  "Version":"1.5.5.5",
-  "ReleaseNotes":"Conexões 🔴Claro (Front) Atualizadas✅\n\n",
+  "Version":"1.7.5.4",
+  "ReleaseNotes":"2 novos servidores\n",
   "UrlUpdate":"https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4g",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
   "EmailFeedback":"kiritosshxd5733@gmail.com",
@@ -17,7 +17,7 @@
       "CheckUser":"http://servidor01.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 02 | FREE",
@@ -27,7 +27,7 @@
       "CheckUser":"http://servidor02.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 03 | FREE",
@@ -37,7 +37,17 @@
       "CheckUser":"http://servidor03.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
+    },
+    {
+      "Name":"BR 59 | FREE",
+      "TYPE":"premium",
+      "FLAG":"br.png",
+      "ServerIP":"servidor59.sockslite.com",
+      "CheckUser":"http://servidor59.sockslite.com:8888/server/online_app",
+      "ServerPort":"80",
+      "SSLPort":"443",
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 04 | FREE",
@@ -47,7 +57,7 @@
       "CheckUser":"http://servidor04.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 05 | FREE",
@@ -57,7 +67,7 @@
       "CheckUser":"http://servidor05.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 06 | FREE",
@@ -67,7 +77,7 @@
       "CheckUser":"http://servidor06.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 07 | FREE",
@@ -77,7 +87,7 @@
       "CheckUser":"http://servidor07.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 08 | FREE",
@@ -87,7 +97,7 @@
       "CheckUser":"http://servidor08.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 09 | FREE",
@@ -97,7 +107,7 @@
       "CheckUser":"http://servidor09.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 10 | FREE",
@@ -107,7 +117,7 @@
       "CheckUser":"http://servidor10.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"CA 11 | FREE",
@@ -117,7 +127,7 @@
       "CheckUser":"http://servidor11.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"CA 12 | FREE",
@@ -127,7 +137,7 @@
       "CheckUser":"http://servidor12.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 13 | FREE",
@@ -137,7 +147,7 @@
       "CheckUser":"http://servidor13.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 14 | FREE",
@@ -147,7 +157,7 @@
       "CheckUser":"http://servidor14.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 15 | FREE",
@@ -157,7 +167,7 @@
       "CheckUser":"http://servidor15.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 16 | FREE",
@@ -167,7 +177,7 @@
       "CheckUser":"http://servidor16.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 17 | FREE",
@@ -177,7 +187,7 @@
       "CheckUser":"http://servidor17.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 18 | FREE",
@@ -187,7 +197,7 @@
       "CheckUser":"http://servidor18.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 19 | FREE",
@@ -197,7 +207,7 @@
       "CheckUser":"http://servidor19.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 20 | FREE",
@@ -207,7 +217,7 @@
       "CheckUser":"http://servidor20.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 21 | FREE",
@@ -217,7 +227,7 @@
       "CheckUser":"http://servidor21.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 22 | FREE",
@@ -227,7 +237,7 @@
       "CheckUser":"http://servidor22.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 23 | FREE",
@@ -237,7 +247,7 @@
       "CheckUser":"http://servidor23.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 24 | FREE",
@@ -247,7 +257,7 @@
       "CheckUser":"http://servidor24.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 25 | FREE",
@@ -257,7 +267,7 @@
       "CheckUser":"http://servidor25.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 26 | FREE",
@@ -267,7 +277,7 @@
       "CheckUser":"http://servidor26.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 27 | FREE",
@@ -277,7 +287,7 @@
       "CheckUser":"http://servidor27.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 28 | FREE",
@@ -287,7 +297,7 @@
       "CheckUser":"http://servidor28.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 29 | FREE",
@@ -297,7 +307,7 @@
       "CheckUser":"http://servidor29.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 30 | FREE",
@@ -307,7 +317,7 @@
       "CheckUser":"http://servidor30.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 31 | FREE",
@@ -317,7 +327,7 @@
       "CheckUser":"http://servidor31.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 32 | FREE",
@@ -327,7 +337,7 @@
       "CheckUser":"http://servidor32.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 33 | FREE",
@@ -337,7 +347,7 @@
       "CheckUser":"http://servidor33.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 34 | FREE",
@@ -347,7 +357,7 @@
       "CheckUser":"http://servidor34.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 35 | FREE",
@@ -357,7 +367,7 @@
       "CheckUser":"http://servidor35.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 36 | FREE",
@@ -367,7 +377,7 @@
       "CheckUser":"http://servidor36.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 37 | FREE",
@@ -377,7 +387,7 @@
       "CheckUser":"http://servidor37.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 38 | FREE",
@@ -387,7 +397,7 @@
       "CheckUser":"http://servidor38.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 39 | FREE",
@@ -397,7 +407,7 @@
       "CheckUser":"http://servidor39.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 40 | FREE",
@@ -407,7 +417,7 @@
       "CheckUser":"http://servidor40.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 41 | FREE",
@@ -417,7 +427,7 @@
       "CheckUser":"http://servidor41.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 42 | FREE",
@@ -427,7 +437,7 @@
       "CheckUser":"http://servidor42.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 43 | FREE",
@@ -437,7 +447,7 @@
       "CheckUser":"http://servidor43.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 44 | FREE",
@@ -447,7 +457,7 @@
       "CheckUser":"http://servidor44.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 45 | FREE",
@@ -457,7 +467,7 @@
       "CheckUser":"http://servidor45.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 46 | FREE",
@@ -467,7 +477,7 @@
       "CheckUser":"http://servidor46.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 47 | FREE",
@@ -477,7 +487,7 @@
       "CheckUser":"http://servidor47.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 48 | FREE",
@@ -487,7 +497,7 @@
       "CheckUser":"http://servidor48.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 49 | FREE",
@@ -497,7 +507,7 @@
       "CheckUser":"http://servidor49.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 50 | FREE",
@@ -507,7 +517,7 @@
       "CheckUser":"http://servidor50.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 51 | FREE",
@@ -517,7 +527,7 @@
       "CheckUser":"http://servidor51.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 52 | FREE",
@@ -527,7 +537,7 @@
       "CheckUser":"http://servidor52.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 53 | FREE",
@@ -537,7 +547,7 @@
       "CheckUser":"http://servidor53.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 54 | FREE",
@@ -547,7 +557,7 @@
       "CheckUser":"http://servidor54.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"USA 55 | FREE",
@@ -557,7 +567,7 @@
       "CheckUser":"http://servidor55.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 56 | FREE",
@@ -567,7 +577,7 @@
       "CheckUser":"http://servidor56.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     },
     {
       "Name":"BR 57 | FREE",
@@ -577,20 +587,10 @@
       "CheckUser":"http://servidor57.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"ekvfd0",       "PASS":"pass"
+      "USER":"@?@%",       "GTS Root R1":"GTS Root R1"
     }
   ],
   "Networks":[
-    {
-      "Name":"VIVO 01 (ALGUNS DDD'S)",
-      "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"104.16.53.111",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
     {
       "Name":"VIVO 01 (ALGUNS DDD'S)",
       "FLAG":"vivo",
@@ -634,7 +634,7 @@
     {
       "Name":"VIVO 05 (FRONT)✅",
       "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dyyie4a7mqfcu.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"server-52-85-213-82.gru1.r.cloudfront.net",
@@ -644,7 +644,7 @@
     {
       "Name":"VIVO 06 (FRONT)✅",
       "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"52.85.213.8",
@@ -674,7 +674,7 @@
     {
       "Name":"TIM 03 (FRONT)✅",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"108.158.124.45",
@@ -684,7 +684,7 @@
     {
       "Name":"TIM 04 (FRONT)",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"108.139.91.220",
@@ -694,7 +694,7 @@
     {
       "Name":"TIM 05 (FRONT)",
       "FLAG":"tim",
-      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: server-108-158-124-45.gig51.r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: server-108-158-124-45.gig51.r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"server-108-158-124-45.gig51.r.cloudfront.net",
@@ -844,7 +844,7 @@
     {
       "Name":"CLARO 01 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"origin.api.amxrest.net",
@@ -854,7 +854,7 @@
     {
       "Name":"CLARO 02 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: dev-portal-lgpd.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: dev-portal-lgpd.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"dev-portal-lgpd.clarobrasil.mobi",
@@ -864,7 +864,7 @@
     {
       "Name":"CLARO 03 (FRONT)✅",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"assets.clarobrasil.mobi",
@@ -874,7 +874,7 @@
     {
       "Name":"CLARO 04 (ALGUNS DDD'S)",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"metadatadb.lab.smartcontent.clarobrasil.mobi",
@@ -884,7 +884,7 @@
     {
       "Name":"CLARO 05 (ALGUNS DDD'S)",
       "FLAG":"claro",
-      "Payload":"GET wss://[rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net]/ HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"planos3-assine-empresas.clarobrasil.mobi",
@@ -1004,7 +1004,7 @@
     {
       "Name":"OI 01 (FRONT)✅",
       "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection:Upgrade:[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"play.hbomax.com",
       "TlsIP":"play.hbomax.com",
       "ProxyIP":"play.hbomax.com",
@@ -1014,7 +1014,7 @@
     {
       "Name":"OI 02 (FRONT✅)",
       "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=dp4whik7dd4yq.cloudfront.net;d2v9qt8l2upz58.cloudfront.net;ddq9wh7rfcsl.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection:Upgrade:[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"[app_host]",
       "TlsIP":"www.oi.com.br",
       "ProxyIP":"www.oi.com.br",
