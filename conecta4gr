@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4gr",
   "Sms": "https://raw.githubusercontent.com/leitura/pacotesmb/main/UrlSms",
@@ -25,10 +25,10 @@
   {
       "Name": "VIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]User-Agent: [ua][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "support.deezer.com",
-      "ProxyIP": "support.deezer.com",
+      "ProxyIP": "104.16.53.111",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
