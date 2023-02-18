@@ -45,9 +45,9 @@
     {
       "Name": "Tim Saldo Expirado",
       "FLAG": "tim",
-      "Payload": "HTTP/ 1[lf]HTTP/ [lf]Host: www.dropbox.com[lf][lf]",
+      "Payload": "[protocol][crlf] [crlf][crlf]@",
       "SNI": "",
-      "TlsIP": "179.96.120.112",
+      "TlsIP": "",
       "ProxyIP": "179.96.120.112",
       "ProxyPort": "80",
       "Info": "Proxy"
