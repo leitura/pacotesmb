@@ -1,598 +1,198 @@
 {
-  "Version":"1.8.5.4",
-  "ReleaseNotes":"2 novos servidores\n",
+  "Version":"1.4.4",
+  "ReleaseNotes":"SSHBRASIL Lite\n",
   "UrlUpdate":"https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4g",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
   "EmailFeedback":"kiritosshxd5733@gmail.com",
   "UrlContato":"https://t.me/kiritosshxd",
   "UrlTermos":"https://raw.githubusercontent.com/leitura/pacotesmb/main/termos.html",
   "CheckUser":"false",
-  "UdpPort":"7300;7400;7500;7600;7700",
+  "UdpPort":"7300",
   "Servers":[
     {
-      "Name":"BR | FREE",
+      "Name":"BRASIL 01 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor01.sockslite.com",
-      "CheckUser":"http://servidor01.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr01.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 02 | FREE",
+      "Name":"BRASIL 02 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor02.sockslite.com",
-      "CheckUser":"http://servidor02.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr02.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 03 | FREE",
+      "Name":"BRASIL 03 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor03.sockslite.com",
-      "CheckUser":"http://servidor03.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr03.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 59 | FREE",
+      "Name":"BRASIL 04 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor59.sockslite.com",
+      "ServerIP":"sbr04.sshbrasil.net",
       "CheckUser":"http://servidor59.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 04 | FREE",
+      "Name":"BRASIL 05 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor04.sockslite.com",
-      "CheckUser":"http://servidor04.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr05.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 05 | FREE",
+      "Name":"BRASIL 06 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor05.sockslite.com",
+      "ServerIP":"sbr06.sshbrasil.net",
       "CheckUser":"http://servidor05.sockslite.com:8888/server/online_app",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 06 | FREE",
+      "Name":"BRASIL 07 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor06.sockslite.com",
-      "CheckUser":"http://servidor06.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr07.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 07 | FREE",
+      "Name":"BRASIL 08 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor07.sockslite.com",
-      "CheckUser":"http://servidor07.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr08.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 08 | FREE",
+      "Name":"BRASIL 09 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor08.sockslite.com",
-      "CheckUser":"http://servidor08.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr09.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 09 | FREE",
+      "Name":"BRASIL 10 FREE",
       "TYPE":"free",
       "FLAG":"br.png",
-      "ServerIP":"servidor09.sockslite.com",
-      "CheckUser":"http://servidor09.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbr10.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"BR 10 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor10.sockslite.com",
-      "CheckUser":"http://servidor10.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"CA 11 | FREE",
+      "Name":"CANADA 11 FREE",
       "TYPE":"free",
       "FLAG":"ca.png",
-      "ServerIP":"servidor11.sockslite.com",
-      "CheckUser":"http://servidor11.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbrca.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"CA 12 | FREE",
+      "Name":"CANADA 12 FREE",
       "TYPE":"free",
       "FLAG":"ca.png",
-      "ServerIP":"servidor12.sockslite.com",
-      "CheckUser":"http://servidor12.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbrca.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"USA 13 | FREE",
+      "Name":"CANADA 13 FREE",
       "TYPE":"free",
       "FLAG":"us.png",
-      "ServerIP":"servidor13.sockslite.com",
-      "CheckUser":"http://servidor13.sockslite.com:8888/server/online_app",
+      "ServerIP":"sbrca.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"USA 14 | FREE",
+      "Name":"UK 15 REE",
       "TYPE":"free",
       "FLAG":"us.png",
-      "ServerIP":"servidor14.sockslite.com",
-      "CheckUser":"http://servidor14.sockslite.com:8888/server/online_app",
+      "ServerIP":"uk1.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     },
     {
-      "Name":"USA 15 | FREE",
+      "Name":"UK 16 REE",
       "TYPE":"free",
       "FLAG":"us.png",
-      "ServerIP":"servidor15.sockslite.com",
-      "CheckUser":"http://servidor15.sockslite.com:8888/server/online_app",
+      "ServerIP":"uk2.sshbrasil.net",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 16 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor16.sockslite.com",
-      "CheckUser":"http://servidor16.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 17 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor17.sockslite.com",
-      "CheckUser":"http://servidor17.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 18 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor18.sockslite.com",
-      "CheckUser":"http://servidor18.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 19 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor19.sockslite.com",
-      "CheckUser":"http://servidor19.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 20 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor20.sockslite.com",
-      "CheckUser":"http://servidor20.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 21 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor21.sockslite.com",
-      "CheckUser":"http://servidor21.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 22 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor22.sockslite.com",
-      "CheckUser":"http://servidor22.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 23 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor23.sockslite.com",
-      "CheckUser":"http://servidor23.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 24 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor24.sockslite.com",
-      "CheckUser":"http://servidor24.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 25 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor25.sockslite.com",
-      "CheckUser":"http://servidor25.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 26 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor26.sockslite.com",
-      "CheckUser":"http://servidor26.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 27 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor27.sockslite.com",
-      "CheckUser":"http://servidor27.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 28 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor28.sockslite.com",
-      "CheckUser":"http://servidor28.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 29 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor29.sockslite.com",
-      "CheckUser":"http://servidor29.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 30 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor30.sockslite.com",
-      "CheckUser":"http://servidor30.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 31 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor31.sockslite.com",
-      "CheckUser":"http://servidor31.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 32 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor32.sockslite.com",
-      "CheckUser":"http://servidor32.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 33 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor33.sockslite.com",
-      "CheckUser":"http://servidor33.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 34 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor34.sockslite.com",
-      "CheckUser":"http://servidor34.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 35 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor35.sockslite.com",
-      "CheckUser":"http://servidor35.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 36 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor36.sockslite.com",
-      "CheckUser":"http://servidor36.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 37 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor37.sockslite.com",
-      "CheckUser":"http://servidor37.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 38 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor38.sockslite.com",
-      "CheckUser":"http://servidor38.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 39 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor39.sockslite.com",
-      "CheckUser":"http://servidor39.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 40 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor40.sockslite.com",
-      "CheckUser":"http://servidor40.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 41 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor41.sockslite.com",
-      "CheckUser":"http://servidor41.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 42 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor42.sockslite.com",
-      "CheckUser":"http://servidor42.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 43 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor43.sockslite.com",
-      "CheckUser":"http://servidor43.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 44 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor44.sockslite.com",
-      "CheckUser":"http://servidor44.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 45 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor45.sockslite.com",
-      "CheckUser":"http://servidor45.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 46 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor46.sockslite.com",
-      "CheckUser":"http://servidor46.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 47 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor47.sockslite.com",
-      "CheckUser":"http://servidor47.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 48 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor48.sockslite.com",
-      "CheckUser":"http://servidor48.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 49 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor49.sockslite.com",
-      "CheckUser":"http://servidor49.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 50 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor50.sockslite.com",
-      "CheckUser":"http://servidor50.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 51 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor51.sockslite.com",
-      "CheckUser":"http://servidor51.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 52 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor52.sockslite.com",
-      "CheckUser":"http://servidor52.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 53 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor53.sockslite.com",
-      "CheckUser":"http://servidor53.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 54 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor54.sockslite.com",
-      "CheckUser":"http://servidor54.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"USA 55 | FREE",
-      "TYPE":"free",
-      "FLAG":"us.png",
-      "ServerIP":"servidor55.sockslite.com",
-      "CheckUser":"http://servidor55.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 56 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor56.sockslite.com",
-      "CheckUser":"http://servidor56.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
-    },
-    {
-      "Name":"BR 57 | FREE",
-      "TYPE":"free",
-      "FLAG":"br.png",
-      "ServerIP":"servidor57.sockslite.com",
-      "CheckUser":"http://servidor57.sockslite.com:8888/server/online_app",
-      "ServerPort":"80",
-      "SSLPort":"443",
-      "USER":"rgsijb0",       "PASS":"pass"
+      "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
     }
   ],
   "Networks":[
     {
-      "Name":"VIVO 01 (ALGUNS DDD'S)",
+      "Name":"VIVO FRONT 🇧🇷 [1]",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: d2cgp4tlzr3bn8.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"recarga.vivo.com.br",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"VIVO FRONT 🇧🇷 [2]",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: d2cgp4tlzr3bn8.cloudfront.net[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"13.227.126.65",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"VIVO PROXY 🇧🇷 [3]",
+      "FLAG":"vivo",
+      "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.16.51.111",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"VIVO PROXY 🇧🇷 [4]",
       "FLAG":"vivo",
       "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI":"",
@@ -602,59 +202,99 @@
       "Info":"Proxy"
     },
     {
-      "Name":"VIVO 02 (EASY)",
-      "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"104.18.7.80",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"VIVO 03 (EASY)",
+      "Name":"VIVO EASY 🇧🇷 [5]",
       "FLAG":"vivo",
       "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"104.18.43.147",
+      "ProxyIP":"104.18.7.41",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
-      "Name":"VIVO 04 (EASY)",
+      "Name":"VIVO EASY 🇧🇷 [6]",
       "FLAG":"vivo",
       "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"172.64.144.109",
+      "ProxyIP":"104.18.6.41",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
-      "Name":"VIVO 05 (FRONT)✅",
-      "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Name":"CLARO DIRECT 🇧🇷 [1]",
+      "FLAG":"claro",
+      "Payload":"GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"server-52-85-213-82.gru1.r.cloudfront.net",
+      "ProxyIP":"",
       "ProxyPort":"80",
-      "Info":"Proxy"
+      "Info":"Direct"
     },
     {
-      "Name":"VIVO 06 (FRONT)✅",
-      "FLAG":"vivo",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+      "Name":"CLARO FRONT 🇧🇷 [2]",
+      "FLAG":"claro",
+      "Payload":"GET / HTTP/1.1[crlf]Host: d2cgp4tlzr3bn8.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf],
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"52.85.213.8",
+      "ProxyIP":"52.85.34.50",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
-      "Name":"TIM 01 (SALDO VALIDO)✅",
+      "Name":"CLARO PLANOS 🇧🇷 [3]",
+      "FLAG":"claro",
+      "Payload":"",
+      "SNI":"dns.web.whatsapp.com",
+      "TlsIP":"proxybr.sshbrasil.net",
+      "ProxyIP":"",
+      "ProxyPort":"443",
+      "Info":"ssl"
+    },
+    {
+      "Name":"CLARO PLANOS 🇧🇷 [4]",
+      "FLAG":"claro",
+      "Payload":"",
+      "SNI":"m.waze.com",
+      "TlsIP":"proxybr.sshbrasil.net",
+      "ProxyIP":"",
+      "ProxyPort":"443",
+      "Info":"ssl"
+    },
+    {
+      "Name":"CLARO PLANOS 🇧🇷 [5]",
+      "FLAG":"claro",
+      "Payload":"",
+      "SNI":"c.whatsapp.net",
+      "TlsIP":"proxybr.sshbrasil.net",
+      "ProxyIP":"",
+      "ProxyPort":"443",
+      "Info":"ssl"
+    },
+    {
+      "Name":"CLARO PLANOS 🇧🇷 [6]",
+      "FLAG":"claro",
+      "Payload":"",
+      "SNI":"m.twitter.com",
+      "TlsIP":"proxybr.sshbrasil.net",
+      "ProxyIP":"",
+      "ProxyPort":"443",
+      "Info":"ssl"
+    },
+    {
+      "Name":"TIM PROXY 🇧🇷 [0]",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[lf]Host: api.sandbox.c6bank.com.br[lf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /?/ HTTP/1.1[lf]Host: [app_host] [lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: helpypro.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]PUT- // HTTP/1.1[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"helpypro.stoodi.com.br",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"TIM PROXY 🇧🇷 [1]",
+      "FLAG":"tim",
+      "Payload":"GET / HTTP/1.1[crlf]Host: support.deezer.com[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"104.19.239.25",
@@ -662,77 +302,17 @@
       "Info":"Proxy"
     },
     {
-      "Name":"TIM 02 (ALGUNS DDD'S)✅",
+      "Name":"TIM PROXY 🇧🇷 [2]",
       "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf]GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload":"GET / HTTP/1.1[crlf]Host: cdn.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"104.16.51.111",
+      "ProxyIP":"104.19.239.25",
       "ProxyPort":"80",
       "Info":"Proxy"
     },
     {
-      "Name":"TIM 03 (FRONT)✅",
-      "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"108.158.124.45",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM 04 (FRONT)",
-      "FLAG":"tim",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"108.139.91.220",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM 05 (FRONT)",
-      "FLAG":"tim",
-      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: server-108-158-124-45.gig51.r.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"server-108-158-124-45.gig51.r.cloudfront.net",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM 06 (DIRECT)",
-      "FLAG":"tim",
-      "Payload":"HTTP/1.1[crlf] [crlf][crlf]•",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM 07 (DIRECT)",
-      "FLAG":"tim",
-      "Payload":"[protocol] \n\n/",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM 08 (DIRECT)",
-      "FLAG":"tim",
-      "Payload":"HTTP/ [crlf][crlf]|[crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM 09 (PROXY)",
+      "Name":"TIM PROXY 🇧🇷 [3]",
       "FLAG":"tim",
       "Payload":"PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
       "SNI":"",
@@ -742,9 +322,19 @@
       "Info":"Proxy"
     },
     {
-      "Name":"TIM 10 (DIRECT)",
+      "Name":"TIM PROXY 🇧🇷 [4]",
       "FLAG":"tim",
-      "Payload":"MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
+      "Payload":"GET / HTTP/1.1[lf]Host: api.sandbox.c6bank.com.br[lf]Expect: 100-continue[lf][lf][split][lf][lf]ACL /?/ HTTP/1.1[lf]Host: [app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"104.19.239.25",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"TIM DIRECT 🇧🇷 [5]",
+      "FLAG":"tim",
+      "Payload":"ACL HTTP/2[crlf]Host: plus.google.com[crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"[app_host]",
@@ -752,7 +342,17 @@
       "Info":"Proxy"
     },
     {
-      "Name":"TIM SOCKS 11",
+      "Name":"TIM DIRECT 🇧🇷 [6]",
+      "FLAG":"tim",
+      "Payload":"HTTP/ [crlf][crlf]|[crlf]]•",
+      "SNI":"",
+      "TlsIP":"",
+      "ProxyIP":"[app_host]",
+      "ProxyPort":"80",
+      "Info":"Proxy"
+    },
+    {
+      "Name":"TIM DIRECT 🇧🇷 [7]",
       "FLAG":"tim",
       "Payload":"ACL HTTP/1.1[lf]Host: google.es[lf]",
       "SNI":"",
@@ -762,282 +362,22 @@
       "Info":"Proxy"
     },
     {
-      "Name":"TIM SOCKS 12",
-      "FLAG":"tim",
-      "Payload":"ACL HTTP/1.1[lf]Host: google.es[lf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM SOCKS 13",
-      "FLAG":"tim",
-      "Payload":"HTTP/ 2\nHOST : m.opera.com\n\n",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM SOCKS 14",
-      "FLAG":"tim",
-      "Payload":"HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"TIM 15",
-      "FLAG":"tim",
-      "Payload":"GET wss://[app_host]/ HTTP/1.1[crlf]Host: smainfo.surveymonkey.com[crlf]Upgrade: WebSocket[crlf][crlf]",
-      "SNI":"[app_host]",
-      "TlsIP":"smainfo.surveymonkey.com",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"443",
-      "Info":"Tlsws"
-    },
-    {
-      "Name":"TIM 16",
-      "FLAG":"tim",
-      "Payload":"GET wss://[app_host]/ HTTP/1.1[crlf]Host: api.sandbox.c6bank.com.br[crlf]Upgrade: WebSocket[crlf][crlf]",
-      "SNI":"[app_host]",
-      "TlsIP":"api.sandbox.c6bank.com.br",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"443",
-      "Info":"Tlsws"
-    },
-    {
-      "Name":"TIM 17",
-      "FLAG":"tim",
-      "Payload":"GET wss://[app_host]/ HTTP/1.1[crlf]Host: duvidas.ampli.com.br[crlf]Upgrade: WebSocket[crlf][crlf]",
-      "SNI":"[app_host]",
-      "TlsIP":"duvidas.ampli.com.br",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"443",
-      "Info":"Tlsws"
-    },
-    {
-      "Name":"TIM 18",
-      "FLAG":"tim",
-      "Payload":"GET wss://[app_host]/ HTTP/1.1[crlf]Host: support.deezer.com[crlf]Upgrade: WebSocket[crlf][crlf]",
-      "SNI":"[app_host]",
-      "TlsIP":"support.deezer.com",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"443",
-      "Info":"Tlsws"
-    },
-    {
-      "Name":"TIM Expirado",
-      "FLAG":"tim",
-      "Payload":"HTTP/ [crlf][crlf]|[crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"179.96.120.112",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 01 (FRONT)✅",
-      "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"origin.api.amxrest.net",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 02 (FRONT)✅",
-      "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: dev-portal-lgpd.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"dev-portal-lgpd.clarobrasil.mobi",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 03 (FRONT)✅",
-      "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"assets.clarobrasil.mobi",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 04 (ALGUNS DDD'S)",
-      "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: metadatadb.lab.smartcontent.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"metadatadb.lab.smartcontent.clarobrasil.mobi",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 05 (ALGUNS DDD'S)",
-      "FLAG":"claro",
-      "Payload":"GET wss://[rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net] / HTTP/1.1[crlf]Host: planos3-assine-empresas.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"planos3-assine-empresas.clarobrasil.mobi",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 06 (ALGUNS DDD'S)",
-      "FLAG":"claro",
-      "Payload":"GET https://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: https://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 07 (ALGUNS DDD'S)",
-      "FLAG":"claro",
-      "Payload":"GET https://brunaclaro.com.br HTTP/1.0[crlf]Host: https://brunaclaro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 08 (ALGUNS DDD'S)",
-      "FLAG":"claro",
-      "Payload":"GET https://m.claro.com.br HTTP/1.0[crlf]Host: https://m.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 09 (ALGUNS DDD'S",
-      "FLAG":"claro",
-      "Payload":"GET https://ecob.claro.com.br HTTP/1.0[crlf]Host: https://ecob.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 10 (ALGUNS DDD'S)",
-      "FLAG":"claro",
-      "Payload":"GET https://bonuz.claro.com.br HTTP/1.0[crlf]Host: https://bonuz.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
-      "ProxyIP":"[app_host]",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"CLARO 11 (PLANOS & PROMOÇÕES)",
-      "FLAG":"claro",
-      "Payload":"",
-      "SNI":"dns.web.whatsapp.com",
-      "TlsIP":"[app_host]",
-      "ProxyIP":"",
-      "ProxyPort":"",
-      "Info":"Ssl"
-    },
-    {
-      "Name":"CLARO 12 (PLANOS & PROMOÇÕES)",
-      "FLAG":"claro",
-      "Payload":"",
-      "SNI":"m.waze.com",
-      "TlsIP":"[app_host]",
-      "ProxyIP":"",
-      "ProxyPort":"",
-      "Info":"Ssl"
-    },
-    {
-      "Name":"CLARO 13 (PLANOS & PROMOÇÕES)",
-      "FLAG":"claro",
-      "Payload":"",
-      "SNI":"c.whatsapp.net",
-      "TlsIP":"[app_host]",
-      "ProxyIP":"",
-      "ProxyPort":"",
-      "Info":"Ssl"
-    },
-    {
-      "Name":"CLARO 14 (PLANOS & PROMOÇÕES)",
-      "FLAG":"claro",
-      "Payload":"",
-      "SNI":"m.twitter.com",
-      "TlsIP":"[app_host]",
-      "ProxyIP":"",
-      "ProxyPort":"",
-      "Info":"Ssl"
-    },
-    {
-      "Name":"CLARO 15",
-      "FLAG":"claro",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI":"[app_host]",
-      "TlsIP":"",
-      "ProxyIP":"mobilidade.cloud.caixa.gov.br",
-      "ProxyPort":"443",
-      "Info":"Tlsws"
-    },
-    {
-      "Name":"CLARO 16",
-      "FLAG":"claro",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI":"[app_host[",
-      "TlsIP":"",
-      "ProxyIP":"content.akross.com.br]",
-      "ProxyPort":"443",
-      "Info":"Tlsws"
-    },
-    {
-      "Name":"OI 01 (FRONT)✅",
+      "Name":"OI WSPAY 🇧🇷 [1]",
       "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection:Upgrade:[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI":"play.hbomax.com",
-      "TlsIP":"play.hbomax.com",
-      "ProxyIP":"play.hbomax.com",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"OI 02 (FRONT✅)",
-      "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [rotate=d26olcgnxng3kh.cloudfront.net;d390hus7tpdw32.cloudfront.net][crlf]Connection:Upgrade:[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI":"[app_host]",
-      "TlsIP":"www.oi.com.br",
-      "ProxyIP":"www.oi.com.br",
-      "ProxyPort":"80",
-      "Info":"Proxy"
-    },
-    {
-      "Name":"OI 03 (TODOS DDD'S ✅)",
-      "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI":"",
-      "TlsIP":"",
+      "Payload":"GET wss://www.hbogo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI":"www.hbogo.com.br",
+      "TlsIP":"www.hbogo.com.br",
       "ProxyIP":"www.hbogo.com.br",
-      "ProxyPort":"80",
-      "Info":"Proxy"
+      "ProxyPort":"443",
+      "Info":"Tlsws"
     },
     {
-      "Name":"OI 04 (TODOS DDD'S ✅)",
-      "FLAG":"oi",
-      "Payload":"GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "Name":"CLARO MULT 🇧🇷🇧🇭🇧🇸🇧🇪 [1]",
+      "FLAG":"claro",
+      "Payload":"GET wss://d2cgp4tlzr3bn8.cloudfront.net HTTP/1.1[crlf]Host: cdn.medallia.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"www.hbogo.com.br",
+      "ProxyIP":"cdn.medallia.com",
       "ProxyPort":"80",
       "Info":"Proxy"
     }
