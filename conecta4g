@@ -1,6 +1,6 @@
 {
   "Version":"1.4.4",
-  "ReleaseNotes":"SSHBRASIL Lite\n",
+  "ReleaseNotes":"SSHBRASIL Lite",
   "UrlUpdate":"https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4g",
   "Sms":"https://raw.githubusercontent.com/rodrigo12xd/sockslite/main/SocksLite/SMS-NOVO",
   "EmailFeedback":"kiritosshxd5733@gmail.com",
@@ -44,7 +44,7 @@
       "TYPE":"free",
       "FLAG":"br.png",
       "ServerIP":"sbr04.sshbrasil.net",
-      "CheckUser":"http://servidor59.sockslite.com:8888/server/online_app",
+      "CheckUser":"",
       "ServerPort":"80",
       "SSLPort":"443",
       "USER":"LISARBHSS",       "PASS":"L I S A R B H S S     "
@@ -142,7 +142,7 @@
     {
       "Name":"UK 15 REE",
       "TYPE":"free",
-      "FLAG":"us.png",
+      "FLAG":"uk.png",
       "ServerIP":"uk1.sshbrasil.net",
       "CheckUser":"",
       "ServerPort":"80",
@@ -152,7 +152,7 @@
     {
       "Name":"UK 16 REE",
       "TYPE":"free",
-      "FLAG":"us.png",
+      "FLAG":"uk.png",
       "ServerIP":"uk2.sshbrasil.net",
       "CheckUser":"",
       "ServerPort":"80",
@@ -224,17 +224,17 @@
     {
       "Name":"CLARO DIRECT 🇧🇷 [1]",
       "FLAG":"claro",
-      "Payload":"GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "Payload":"GET http://www.claro.com.br HTTP/1.0[crlf]Host: http://www.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
-      "ProxyIP":"",
+      "ProxyIP":"[app_host]",
       "ProxyPort":"80",
-      "Info":"Direct"
+      "Info":"Proxy"
     },
     {
       "Name":"CLARO FRONT 🇧🇷 [2]",
       "FLAG":"claro",
-      "Payload":"GET / HTTP/1.1[crlf]Host: d2cgp4tlzr3bn8.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf],
+      "Payload":"GET / HTTP/1.1[crlf]Host: d2cgp4tlzr3bn8.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"52.85.34.50",
@@ -249,7 +249,7 @@
       "TlsIP":"proxybr.sshbrasil.net",
       "ProxyIP":"",
       "ProxyPort":"443",
-      "Info":"ssl"
+      "Info":"Ssl"
     },
     {
       "Name":"CLARO PLANOS 🇧🇷 [4]",
@@ -259,7 +259,7 @@
       "TlsIP":"proxybr.sshbrasil.net",
       "ProxyIP":"",
       "ProxyPort":"443",
-      "Info":"ssl"
+      "Info":"Ssl"
     },
     {
       "Name":"CLARO PLANOS 🇧🇷 [5]",
@@ -269,7 +269,7 @@
       "TlsIP":"proxybr.sshbrasil.net",
       "ProxyIP":"",
       "ProxyPort":"443",
-      "Info":"ssl"
+      "Info":"Ssl"
     },
     {
       "Name":"CLARO PLANOS 🇧🇷 [6]",
@@ -279,7 +279,7 @@
       "TlsIP":"proxybr.sshbrasil.net",
       "ProxyIP":"",
       "ProxyPort":"443",
-      "Info":"ssl"
+      "Info":"Ssl"
     },
     {
       "Name":"TIM PROXY 🇧🇷 [0]",
@@ -344,7 +344,7 @@
     {
       "Name":"TIM DIRECT 🇧🇷 [6]",
       "FLAG":"tim",
-      "Payload":"HTTP/ [crlf][crlf]|[crlf]]•",
+      "Payload":"HTTP/ [crlf][crlf]|[crlf]x",
       "SNI":"",
       "TlsIP":"",
       "ProxyIP":"[app_host]",
