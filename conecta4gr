@@ -1,12 +1,12 @@
 {
-  "Version": "22.0.8",
+  "Version": "23.0.8",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4gr",
   "Sms": "https://raw.githubusercontent.com/leitura/pacotesmb/main/UrlSms",
   "EmailFeedback": "olamae@gmail.com",
   "UrlContato": "https://t.me/rakuriuu",
   "UrlTermos": "https://raw.githubusercontent.com/leitura/pacotesmb/main/termos.html",
-  "CheckUser": "false",
+  "CheckUser": "true",
   "UdpPort": "7300",
   "Servers": [
     {
