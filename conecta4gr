@@ -1,11 +1,11 @@
 {
-  "Version": "23.0.8",
+  "Version": "24.0.0",
   "ReleaseNotes": "",
   "UrlUpdate": "https://raw.githubusercontent.com/leitura/pacotesmb/main/conecta4gr",
   "Sms": "https://raw.githubusercontent.com/leitura/pacotesmb/main/UrlSms",
   "EmailFeedback": "olamae@gmail.com",
   "UrlContato": "https://t.me/rakuriuu",
-  "UrlTermos": "https://raw.githubusercontent.com/leitura/pacotesmb/main/termos.html",
+  "UrlTermos": "https://raw.githubusercontent.com/leitura/ospacotesmb/main/termos.html",
   "CheckUser": "true",
   "UdpPort": "7300",
   "Servers": [
@@ -13,9 +13,9 @@
       "Name": "PREMIUM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "rakuriuu.xyz",
-      "CheckUser": "http://rakuriuu.xyz:8080/checkUser",
-      "ServerPort": "443",
+      "ServerIP": "h.rakuriuu.xyz",
+      "CheckUser": "http://179.96.120.134:8080/checkUser",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -25,40 +25,30 @@
   {
       "Name": "VIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "POLL / \n\n HTTP/1.1\n\nHost: vivo.zerod.mobi\n\nConnection: Keep-Alive\n\n\n\n",
       "SNI": "",
-      "TlsIP": "rakuriuu.xyz",
-      "ProxyIP": "rakuriuu.xyz",
+      "TlsIP": "179.96.120.134",
+      "ProxyIP": "179.96.120.134",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "Claro",
-      "FLAG": "claro",
-      "Payload": "GET / HTTP/1.1[crlf]Host:landing.stoodi.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "rakuriuu.xyz",
-      "ProxyIP": "rakuriuu.xyz",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "Tim Saldo Expirado",
+      "Name": "TIM",
       "FLAG": "tim",
-      "Payload": "HTTP/ [crlf][crlf]|[crlf]",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "rakuriuu.xyz",
+      "TlsIP": "104.19.241.93",
+      "ProxyIP": "104.19.241.93",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO 2",
+      "Name": "Vivo A",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "[split] PATCH HTTP/1.1Host: plus.google.com[lf]h2,http/1.1 PATCH HTTP/1.1Host: plus.google.com[lf][lf]",
       "SNI": "",
-      "TlsIP": "unpkg.com",
-      "ProxyIP": "unpkg.com",
+      "TlsIP": "179.96.120.134",
+      "ProxyIP": "179.96.120.134",
       "ProxyPort": "80",
       "Info": "Proxy"
     }
